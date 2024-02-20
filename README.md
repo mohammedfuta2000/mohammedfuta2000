@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Cloud Engineer seeking new opportunities, studied KNUST.I want a deeper understanding of the applications I support and use. to this end i have recently taken up contributing to open-source projects. With a  focus on Golang, with plans to explore JavaScript, Python, and Rust in the future.
+Cloud Engineer seeking new opportunities, studied at KNUST. My goal? To dive deep into the applications I support and use. To this end I have taken up contributing to open-source projects. With a focus on Golang, with future plans to explore JavaScript, Python, and Rust.
 
 ### Experience
 🧑🏻‍💻 Devops Engineer at [6senseev](https://6sensehq.com)</br>
